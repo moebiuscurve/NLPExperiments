@@ -2,6 +2,8 @@
 import urllib.request
 import sys
 
+#Note: urlretrieve might be depricated.
+
 totalArgs=len(sys.argv)
 if totalArgs==3:
 	url=sys.argv[2]
