@@ -1,0 +1,418 @@
+Aerospace - Acoustic Instabilities in Aerospace Propulsion
+Aerospace - Advanced Control System Design
+Aerospace - Aero elasticity
+Aerospace - Flight Dynamics II (Stability)
+Aerospace - Foundation of Scientific Computing
+Aerospace - Gas Dynamics
+Aerospace - High Speed Aero Dynamics
+Aerospace - Instability and Transition of Fluid Flows
+Aerospace - Introduction to Aerodynamics
+Aerospace - Introduction to Aerospace Propulsion
+Aerospace-Introduction to Helicopter Aerodynamics & Dynamics
+Aerospace - Introduction to Propulsion
+Aerospace - Jet Aircraft Propulsion
+Aerospace - Jet Aircraft Propulsion
+Aerospace - Optimal Control, Guidance and Estimation
+Aerospace - Space Flight Mechanics
+Aerospace - Space Flight Mechanics
+Aerospace - Turbomachinery Aerodynamics
+Atmospheric Science - Radiation Heat Transfer
+Atmospheric Science - The monsoon and its variability
+Basic courses - Engineering Physics I
+Biochemical Engineering - Enzyme Science and Engineering
+Biochemistry - Essentials in Immunolgy
+Biochemistry-Eukaryotic Gene Expression
+Biotechnology - Analytical Technologies in Biotechnology
+Biotechnology - Biomathematics
+Biotechnology - Downstream Processing
+Biotechnology - Proteomics: Principles and Techniques
+Biotechnology - Thermodynamics
+Chemical - Advanced Mathematical Techniques in Chemical Engg
+Chemical-Biochemical Engineering
+Chemical-Chemical Reaction Engineering
+Chemical - Chemical Reaction Engineering II
+Chemical - Chemical Technology - I
+Chemical - Computational Fluid Dynamics
+Chemical - Computational Techniques
+Chemical Engineering - Plantwide Control of Chemical Processes
+Chemical - Fluid Mechanics
+Chemical - Fundamentals of Transport Processes
+Chemical - Fundamentals of Transport Processes - II
+Chemical - Heat Transfer
+Chemical - Heterogeneous Catalysis and Catalytic Processes
+Chemical - Instability & Patterning of Thin Polymer Films
+Chemical - Mass Transfer II
+Chemical - Mass Transfer Operations I
+Chemical - Microscale Transport Processes
+Chemical - Microscale Transport Processes
+Chemical - Modern Instrumental Methods of Analysis
+Chemical - Multiphase Flow
+Chemical - Multiphase Flow
+Chemical - Novel Separation Processes
+Chemical - Particle Characterization
+Chemical - Process Control and Instrumentation
+Chemical - Process Design Decisions and Project Economics
+Chemical - Process Integration
+Chemistry - Advance Analytical Course
+Chemistry and Bio-Chemistry - Bio Inorganic Chemistry
+Chemistry - Co-ordination chemistry (chemistry of transition elements)
+Chemistry - Heterocyclic Chemistry
+Chemistry - Introduction to Organometallic Chemistry
+Chemistry - Introductory Quantum Chemistry
+Chemistry - Mathematics for Chemistry
+Chemistry - Organic Photochemistry and Pericyclic Reactions
+Chemistry - Polymer Chemistry
+Chemistry - Rate Processes
+Civil - Advanced Foundation Engineering
+Civil - Advanced Hydraulics
+Civil - Advanced Hydrology
+Civil - Advanced Structural Analysis
+Civil - Building Materials and Construction
+Civil - Concrete Technology
+Civil - Concrete Technology
+Civil - Design of Reinforced Concrete Structures
+Civil - Design Of Steel Structures
+Civil - Engineering Geology
+Civil - Environmental Air Pollution
+Civil - Finite Element Analysis
+Civil - Fluid Mechanics
+Civil - Foundation Engineering
+Civil - Geosynthetics and Reinforced Soil Structures
+Civil - Geosynthetics Engineering: In Theory and Practice
+Civil - Geotechnical Earthquake Engineering
+Civil - Geotechnical Measuements & Explorations
+Civil - Hydraulics
+Civil - Introduction to Transportation Engineering
+Civil - Mechanics of Solids
+Civil - Modern Construction Materials
+Civil - Modern Surveying Techniques
+Civil - Numerical Methods in Civil Engineering
+Civil - Prestressed Concrete Structures
+Civil - Probability Methods in Civil Engineering
+Civil - Soil Dynamics
+Civil - Soil Mechanics
+Civil - Stochastic Hydrology
+Civil - Stochastic Structural Dynamics
+Civil - Strength of Materials - Prof. S.K.Bhattacharyya
+Civil - Structural Analysis II
+Civil - Structural Dynamics
+Civil - Surveying
+Civil - Transportation Engineering II
+Civil - Urban transportation planning
+Civil - Water Resources Engineering
+Civil-Water Resources Systems:Modeling Techniques & Analysis
+Civil - Watershed Management
+Civil - Water & Wastewater Engineering
+Computer - Biometrics
+Computer - Computational Geometry
+Computer - Computer Algorithms - 2
+Computer - Cryptography and Network Security
+Computer-Design Verification & Test of Digital VLSI Circuits
+Computer - Graph Theory
+Computer - High Performance Computer Architecture
+Computer - Logic for CS
+Computer - Low Power VLSI Circuits & Systems
+Computer - Natural Language Processing
+Computer - Numerical Optimization
+Computer - Performance Evaluation of Computer Systems
+Computer Sc - Artificial Intelligence
+Computer Sc - Artificial Intelligence - Prof. P. Dasgupta
+Computer Sc - Computer Architecture
+Computer Sc - Computer Graphics
+Computer Sc - Computer Networks
+Computer Sc - Computer Organization
+Computer Sc - Database Management System
+Computer Sc - Data Communication
+Computer Sc - Data Structures and Algorithms
+Computer Sc - Design & Analysis of Algorithms
+Computer Sc - Discrete Mathematical Structures
+Computer Science and Engineering - Computer Networks
+Computer Science - Artificial Intelligence
+Computer Science - Combinatorics
+Computer Science - Compiler Design
+Computer Science - Electronic Design and Automation
+Computer Science - High Performance Computing
+Computer Science - Parallel Algorithm
+Computer Science - Parallel Computing
+Computer Science-Real-Time Systems
+Computer Science - Theory of Computation
+Computer Sc - Internet Technologies
+Computer Sc - Introduction to Computer Graphics
+Computer Sc - Introduction To Problem Solving & Programming
+Computer Sc - Principles of Programming Languages
+Computer Sc - Programming and Data Structure
+Computer Sc - Software Engineering
+Computer Sc - Systems Analysis and Design
+Computer Sc - Theory of Computation
+Computer - Storage Systems
+Core - Applied Mechanics
+Core - Basic Electronics - Prof T.S.Natarajan
+Core - Classical Physics
+Core - Human Resource Management-I
+Core - Leadership
+Core - Management Information System
+Core - Management Science
+Core - Materials Science
+Core - Mathematics - II
+Core - Mathematics - III
+Core - Numerical Methods and Computation
+Core - Physics I - Oscillations and Waves
+Core - Probability and Statistics
+Core - Quantum Mechanics and Applications
+Core - Quantum Physics
+Core Science - Biochemistry I
+Core Science -Concept & Evolution of Management thought
+Core Science - Engineering Chemistry 1
+Core Science - Engineering Mechanics
+Core Science - Engineering Physics II
+Core Science - Mathematics
+Core Science - Numerical Methods and Programing
+Core - Strategic Management
+Design - Ergonomics for beginners: Industrial design
+Electrical - Advanced Control Systems
+Electrical - Advanced Electric Drives
+Electrical - Analog ICs
+Electrical - An Introduction to Electronics System Packaging
+Electrical - Basic Electrical Technology
+Electrical - Chaos, Fractals and Dynamical Systems
+Electrical - Circuit Theory
+Electrical - Communication Engineering
+Electrical - Control Engineering
+Electrical - Control Engineering_Prof. Gopal
+Electrical - Digital Integrated Circuits
+Electrical - Digital Signal Processing
+Electrical - Digital System Design
+Electrical - Dynamics of Physical System
+Electrical - Electrical Machines-I
+Electrical - Electro Magnetic Fields
+Electrical - Embedded Systems
+Electrical - Energy Resources and Technology
+Electrical - Error Correcting Codes
+Electrical - Estimation of Signals and Systems
+Electrical - High Voltage DC Transmission
+Electrical - Illlumination Engineering
+Electrical - Industrial Automation and Control
+Electrical - Industrial Drives - Power Electronics
+Electrical - Industrial Instrumentation
+Electrical - Information Theory and Coding
+Electrical - Intelligent Systems and Control
+Electrical - Networks and Systems
+Electrical - Networks, Signals and Systems
+Electrical - Optimal Control
+Electrical - Power Electronics
+Electrical - Power Sys Generation Transmission Distribution
+Electrical - Power System Analysis
+Electrical - Power System Dynamics
+Electrical - Power System Dynamics and Control
+Electrical - Power System Operations and Control
+Electrical - Pulse width Modulation for Power Electronic Converters
+Electrical - RF Integrated Circuits
+Electrical - Signals and System
+Electrical - Switched Mode Power Conversion
+Electronics - Adaptive Signal Processing
+Electronics-Advanced 3G & 4G Wireless Mobile Communications
+Electronics - Advanced Digital Signal Processing
+Electronics - Advanced Optical Communication
+Electronics - Analog IC Design
+Electronics - Basic Electronics - Dr.Chitralekha Mahanta
+Electronics - Broadband Networks
+Electronics - Circuits for Analog System Design
+Electronics - Coding Theory
+Electronics - Communication Engineering
+Electronics & Communication Engineering - Signals and Systems
+Electronics - Digital Circuits and Systems
+Electronics - Digital Communication
+Electronics - Digital Computer Organization
+Electronics - Digital Image Processing
+Electronics - Digital Signal Processing
+Electronics - Digital Systems Design
+Electronics - Digital VLSI System Design
+Electronics - Digital Voice and Picture Communication
+Electronics - Electronics For Analog Signal Processing - I
+Electronics - Electronics For Analog Signal Processing - II
+Electronics - Error Correcting Codes
+Electronics - High Speed Devices & Circuit
+Electronics - Information Theory and Coding
+Electronics - MEMS & Microsystems
+Electronics - Neural Networks and Applications
+Electronics - Pattern Recognition
+Electronics - Pattern Recognition and Application
+Electronics - Probability & Random Variables
+Electronics - RF Integrated Circuits
+Electronics - Semiconductor Device Modeling
+Electronics - Solid State Devices
+Electronics - Transmission Lines and EM Waves
+Electronics - VLSI Data Conversion Circuits
+Electronics - VLSI Design
+Electronics - Wireless Communication
+Engineering Design - Principles of Engineering System Design
+Engineering Design - Vehicle Dynamics
+Engineering Desing -Ergonomics for beginners: Industrial design perspective
+General - India's Ayurvedic Inheritance
+Humanities and Social Sciences - Cultural Studies
+Humanities and Social Sciences-Cultural Studies
+Humanities and Social Sciences - Indian philosophy
+Humanities and Social Sciences - Indian Philosophy
+Humanities - Better Spoken English
+Humanities - Communication Skills
+Humanities - Contemporary Issues in Philosophy of Mind
+Humanities - Contemporary Literature
+Humanities - Game Theory and Economics
+Humanities - History of Economic Theory
+Humanities - International Economics
+Humanities - Introduction to Film Studies
+Humanities - Introductory Sociology
+Humanities - Macro Economics
+Humanities - Money & Banking
+Humanities-Population and Society
+Humanities - Understanding Creativity and Creative Writing
+Management - Applied Multivariate Statistical Modeling
+Management - Business Analysis for Engineers
+Management - Consumer Behaviour
+Management - Econometric Modelling
+Management - Global Supply Chain Management
+Management - Infrastructure Finance
+Management - International Finance
+Management - Managerial Economics
+Management - Manufacturing Systems Management
+Management - Operations and Supply Chain Management
+Management - Organisation of Engineering Systems and Human
+Management - Organizational Behaviour
+Management - Organization Management
+Management - Security Analysis and Portfolio Management
+Management - Six Sigma
+Management - Strategic Management
+Management - Strategic Marketing - Contemporary Issues
+Material Science - Electroceramics
+Mathematics - A Basic Course in Real Analysis
+Mathematics - Advanced Engineering Mathematics
+Mathematics - Advanced Matrix Theory
+Mathematics - An Introduction to Riemann Surfaces
+Mathematics - Applied Multivariate Analysis
+Mathematics - Calculus of Variations and Integral Equations
+Mathematics - Complex Analysis
+Mathematics - Convex Optimization
+Mathematics - Elementary Numerical Analysis
+Mathematics - Foundations of Optimization
+Mathematics - Functional Analysis
+Mathematics - Linear programming and Extensions
+Mathematics - Mathematical Logic
+Mathematics - Mathematics in India - From Vedic Period to Modern Times
+Mathematics - Measure and Integration
+Mathematics - Numerical methods of Ordinary and Partial
+Mathematics - Optimization
+Mathematics - Probability and Statistics
+Mathematics - Real Analysis
+Mathematics - Regression Analysis
+Mathematics - Statistical Inference
+Mathematics - Stochastic Processes
+Mathematics - Topology
+Mechanical - Advanced Finite Elements Analysis
+Mechanical - Advanced Gas Dynamics
+Mechanical - Advanced Machining Processes
+Mechanical - Advanced Manufacturing Processes
+Mechanical - Advanced Materials and Processes
+Mechanical - Advanced Operations Research
+Mechanical - Advanced Strength of Materials
+Mechanical - An Introduction to Explosions and Explosion Safety
+Mechanical - Basic Thermodynamics
+Mechanical - Biomicroelectromechanical systems
+Mechanical - Computational Fluid Dynamics
+Mechanical - Computational Fluid Dynamics
+Mechanical - Computer Aided Design
+Mechanical - Computer Aided Engineering Design
+Mechanical- Conduction and Radiation
+Mechanical - Convective Heat and Mass Transfer
+Mechanical - Convective Heat Transfer
+Mechanical - Cryogenic Engineering
+Mechanical - Design and Optimization of Energy Systems
+Mechanical - Design of Machine Elements
+Mechanical - Dynamics of Machines
+Mechanical - Engineering Fracture Mechanics
+Mechanical - Engineering Mechanics - Dr.G.Saravana Kumar
+Mechanical - Experimental Stress Analysis
+Mechanical - Finite Element Method
+Mechanical - Fluid Mechanics
+Mechanical - Fundamentals of Operations Research
+Mechanical - Gas Dynamics and Propulsion
+Mechanical - Heat and Mass Transfer
+Mechanical - Industrial Engineering
+Mechanical - Introduction to Finite Element Method
+Mechanical - Kinematics of Machines
+Mechanical - Manufacturing Processes - I
+Mechanical - Manufacturing Processes II
+Mechanical - Mathematical Methods in Engineering and Science
+Mechanical - Mechanical Measurements and Metrology
+Mechanical - Mechanical Vibrations
+Mechanical - Micro and Smart Systems
+Mechanical - Microfluidics
+Mechanical - Nonlinear Vibration
+Mechanical - Principles of Mechanical Measurements
+Mechanical - Processing of non metals
+Mechanical - Project and Production Management
+Mechanical - Refrigeration and Airconditioning
+Mechanical - Robotics
+Mechanical - Rocket Propulsion
+Mechanical - Solar Energy Technology
+Mechanical - Strength of Materials
+Mechanical - Techonology of Surface Coating
+Mechanical - Theory & Practice of Rotor Dynamics
+Mechanical - Tribology
+Mechanical - Vibration control
+Mechanical - Vibration of Structures
+Mechanical - Welding Engineering
+Metallurgical - Introduction to Biomaterials
+Metallurgical - Non-ferrous Extractive Metallurgy
+Metallurgical-Physics of Materials
+Metallurgical - Science and Technology of Polymers
+Metallurgy - Advanced ceramics for strategic applications
+Metallurgy - Advanced Metallurgical Thermodynamics
+Metallurgy - Electroceramics
+Metallurgy - Environmental Degradation of Materials
+Metallurgy - Fuels Refractory and Furnaces
+Metallurgy-Materials and Energy Balance
+Metallurgy - Optoelectronic Materials and Devices
+Metallurgy - Principles of Physical Metallurgy
+Metallurgy - Processing of Semiconducting Materials
+Metallurgy - Steel Making
+Metallurgy - Structure of Materials
+Mining - Fundamentals of Environmental Pollution and Control
+My Top Videos
+Nanotechnology - Economics / Management / Entrepreneurhip
+Ocean - Applied Thermodynamics for Marine Systems
+Ocean - Coastal Engineering
+Ocean - Dynamics of Ocean Structures
+Ocean - Elements of Ocean Engineering
+Ocean Engineering - Advanced Marine Structures
+Ocean Engineering - Design of Offshore Structures
+Ocean - Foundation for Offshore Structures
+Ocean - Health,Safety and Environmental Management..,
+Ocean - Hydrostatics and Stability
+Ocean - Marine Construction & Welding
+Ocean - Marine Hydrodynamics
+Ocean - Ocean Structures and Materials
+Ocean - Performance of Marine Vehicles At Sea
+Ocean - Port and Harbour Structures
+Ocean - Seakeeping and Manoeuvring
+Ocean - Ship Resistance and Propulsion
+Ocean - Strength and Vibration of Marine Structures
+Ocean - Wave Hydrodynamics
+Physics - Classical Field Theory
+Physics - Condensed Matter Physics
+Physics - Electromagnetic Theory
+Physics - Electronics
+Physics - Nuclear Physics Fundamentals and Application
+Physics - Plasma Physics: Fundamentals and Applications
+Physics - Quantum Electronics
+Physics - Quantum Field Theory
+Physics - Quantum Mechanics and Application
+Physics - Quantum Mechanics I
+Physics - Selected Topics in Mathematical Physics
+Physics - Select/Special Topics in Atomic Physics
+Physics - Semiconductor Optoelectronics
+Physics - Special/Select Topics in the Theory of Atomic Coll
+Physics - Special Theory of Relativity
+Physics - Special Topics in Classical Mechanics
+Physics - Topics in Nonlinear Dynamics
+Textile - Natural Dyes
+Textile - Theory of Yarn Structures
